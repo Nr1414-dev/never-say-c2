@@ -1,0 +1,1 @@
+NO-GO — draft, belum submit. Audit Gate v2 belum dijalankan; submit hanya setelah gate READY dan kit check 0 failed.
